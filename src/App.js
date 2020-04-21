@@ -32,7 +32,10 @@ class App extends React.Component{
 
         return(
             <div className={styles.contaier}>
-                <p>Sasta Corona Tracker</p>
+                <p>This website is being deployed Live for learning purpose
+                    Thanks to https://covid19.mathdro.id/api , 
+                    financialtimesdata,covid19india.org,shuklaayush,hitesh choudhary,JSmastery
+                </p>
                 <img className={styles.image} src={coronaImage} alt="COVID-19" />
                 <Cards data={data}/> 
                 <CountryPicker handleCountryChange={this.handleCountryChange}/>
