@@ -34,7 +34,7 @@ class App extends React.Component{
             <div className={styles.contaier}>
                 <p>This website is being deployed Live for learning purpose
                     Thanks to https://covid19.mathdro.id/api , 
-                    financialtimesdata,covid19india.org,shuklaayush,hitesh choudhary,JSmastery
+                    financialtimesdata,covid19india.org,rabish ji,JSmastery
                 </p>
                 <img className={styles.image} src={coronaImage} alt="COVID-19" />
                 <Cards data={data}/> 
