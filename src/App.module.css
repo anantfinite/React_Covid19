@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(243, 224, 224);
 
 }
 
@@ -13,6 +13,54 @@ body{
 .image{
     width: 350px;
     margin-top: 50px ;
+    
+}
+/* .h1{
+    
+    color: seashell;
+    
+}
+.backgroundImage h1{
+    
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    background-image: url(./images/color.png);
+    background-repeat: repeat-x;
+    -webkit-background-clip: text;
+    animation: animate 15s linear infinite;
+
+}
+@keyframes animate{
+    0%{
+        background-position : left 0px top 10px;
+    }
+    40%{
+        background-position : left 800px top 10px;
+    }
+}
+.backgroundImage{
+    
+text-align: center;
+    
+}
+.text2{
+    color: white;
+
+} */
+
+.text2{
+    font-family: "Courier New", Courier, monospace;
+font-size: 26px;
+font-weight: bolder;
+letter-spacing: -1.8px;
+word-spacing: -2.6px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
 }
 
 .frame1{
@@ -37,6 +85,8 @@ body{
         margin: 0 10%; 
     }
     .image{
+        background-color: seashell;
         width: 100%;
     }
 }
+

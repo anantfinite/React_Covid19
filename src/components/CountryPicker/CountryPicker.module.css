@@ -1,6 +1,14 @@
 .formControl{
+    
+    position: center;
     width:30%;
     margin-top:20px !important ;
     margin-bottom: 30px !important ;
+    background-color: ghostwhite;
     
+    
+}
+.form{
+    flex: auto;
+margin-left: 100px;
 }

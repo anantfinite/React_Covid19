@@ -3,6 +3,7 @@
     display: flex;
     justify-content: center;
     width: 65%;
+    background-color: ghostwhite;
   }
   
   @media only screen and (max-width: 770px) {
