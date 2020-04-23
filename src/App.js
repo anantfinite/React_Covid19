@@ -37,7 +37,8 @@ class App extends React.Component{
                <h3>Contact : anant.cup@gmail.com</h3> 
                   <p> This website is being deployed Live for learning purpose,
                     Thanks to https://covid19.mathdro.id/api 
-                    financialtimesdata,covid19india.org,rabish ji,JSmastery
+                    financialtimesdata,covid19india.org,
+                    rabish ji,JSmastery
                     </p>
                 </div>
                 <img className={styles.image} src={coronaImage} alt="COVID-19" />
