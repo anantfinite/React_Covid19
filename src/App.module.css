@@ -64,7 +64,7 @@ text-transform: none;
 }
 
 .frame1{
-    width: 70%;
+    width: 95%;
     height: 600px;
     border: 0px none;
     margin-top: 30px ;
@@ -72,7 +72,7 @@ text-transform: none;
     align-items: center;
 }
 .frame2{
-    width: 70%;
+    width: 95%;
     height: 500px;
     border: 0px none;
     margin-top: 80px ;
@@ -80,6 +80,10 @@ text-transform: none;
     align-items: stretch;
 
 } 
+
+
+
+
 @media(max-width:770px){
     .container{
         margin: 0 10%; 
